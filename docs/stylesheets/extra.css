@@ -1,0 +1,75 @@
+/* Custom styling for Material for MkDocs */
+
+/* Custom primary and accent colors (when using 'custom' palette) */
+:root {
+  --md-primary-fg-color:        #2C3E50;  /* Dark blue-grey */
+  --md-primary-fg-color--light: #34495E;
+  --md-primary-fg-color--dark:  #1A252F;
+  --md-accent-fg-color:         #E74C3C;  /* Vibrant red accent */
+  --md-accent-fg-color--light:  #EC7063;
+  --md-accent-fg-color--dark:   #C0392B;
+}
+
+/* Dark mode custom colors */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #3498DB;  /* Bright blue */
+  --md-primary-fg-color--light: #5DADE2;
+  --md-primary-fg-color--dark:  #2E86C1;
+  --md-accent-fg-color:         #F39C12;  /* Orange accent */
+  --md-accent-fg-color--light:  #F8C471;
+  --md-accent-fg-color--dark:   #D68910;
+}
+
+/* Improve readability with better spacing */
+.md-content {
+  max-width: 50rem;
+  line-height: 1.7;
+}
+
+.md-content h1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.md-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.5rem;
+}
+
+/* Better code block styling */
+.md-typeset pre > code {
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Smoother link transitions */
+.md-typeset a {
+  transition: color 0.2s ease;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Card-like styling for admonitions */
+.md-typeset .admonition {
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid var(--md-accent-fg-color);
+}
+
+/* Better table styling */
+.md-typeset table:not([class]) {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Improve footer spacing */
+.md-footer {
+  margin-top: 3rem;
+}

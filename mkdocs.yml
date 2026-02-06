@@ -10,33 +10,86 @@ theme:
   name: material
   favicon: https://github.com/baraline.png
   palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    # Option 1: Deep Purple & Amber (Current - Modern & Professional)
+    # Palette toggle for dark mode (default)
+    - scheme: slate
+      primary: deep purple
+      accent: amber
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to dark mode
+    
+    # Option 2: Teal & Light Green (Uncomment to use - Fresh & Clean)
+    # - scheme: default
+    #   primary: teal
+    #   accent: light green
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: Switch to dark mode
+    # - scheme: slate
+    #   primary: teal
+    #   accent: light green
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
+    
+    # Option 3: Blue Grey & Cyan (Uncomment to use - Tech & Minimal)
+    # - scheme: default
+    #   primary: blue grey
+    #   accent: cyan
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: Switch to dark mode
+    # - scheme: slate
+    #   primary: blue grey
+    #   accent: cyan
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
+    
+    # Option 4: Custom Colors (Uncomment to use - Unique Brand)
+    # - scheme: default
+    #   primary: custom
+    #   accent: custom
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: Switch to dark mode
+    # - scheme: slate
+    #   primary: custom
+    #   accent: custom
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
     - navigation.footer
     - navigation.indexes
+    - navigation.instant  # Instant loading (faster page transitions)
+    - navigation.tracking  # URL updates with scroll position
+    - navigation.expand  # Expand navigation by default
     - toc.follow
     - toc.integrate
     - search.suggest
     - search.highlight
+    - search.share  # Share search results
     - content.code.copy
+    - content.code.annotate  # Add annotations to code blocks
+    - content.tabs.link  # Link content tabs across pages
   icon:
     repo: fontawesome/brands/github
+
+# Custom CSS for additional styling (create this file)
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
