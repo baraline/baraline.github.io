@@ -26,11 +26,12 @@ I actively contribute to the academic community through peer review services for
 
 ## Conference Program Committees
 
-### [Conference Name] ([Abbreviation])
-**Year:** [Year]  
-**Role:** Program Committee Member / Reviewer
+### AATLD Workshop at ECML PKDD
+**Full Name:** Advanced Analytics and Learning on Temporal Data  
+**Year:** 2025  
+**Role:** Reviewer
 
-**Topics:** [List of topics reviewed]
+**Topics:** Time series analysis, temporal data mining, machine learning for temporal data
 
 ---
 
