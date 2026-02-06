@@ -14,7 +14,7 @@ Visit the site at: [https://baraline.github.io](https://baraline.github.io)
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - pip
 
 ### Setup

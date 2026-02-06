@@ -15,15 +15,6 @@ I actively contribute to the academic community through peer review services for
 
 ---
 
-### [Journal Name]
-**Publisher:** [Publisher Name]  
-**Field:** [Research Field]  
-**Years Active:** [Year - Year]
-
-**Number of Reviews:** [Approximate number]
-
----
-
 ## Conference Program Committees
 
 ### AATLD Workshop at ECML PKDD
@@ -32,14 +23,6 @@ I actively contribute to the academic community through peer review services for
 **Role:** Reviewer
 
 **Topics:** Time series analysis, temporal data mining, machine learning for temporal data
-
----
-
-### [Conference Name] ([Abbreviation])
-**Year:** [Year]  
-**Role:** Program Committee Member / Reviewer
-
-**Topics:** [List of topics reviewed]
 
 ---
 
