@@ -2,17 +2,15 @@
 
 Personal homepage of Antoine Guillaume built with MkDocs Material.
 
-## 🌐 Live Site
-
 Visit the site at: [https://baraline.github.io](https://baraline.github.io)
 
-## 📚 Structure
+## Structure
 
 - **Professional**: CV, publications, conferences, reviewer work, and public communications
 - **Blog**: Technical blog posts on machine learning, data science, and software development
 - **Links**: Social media and professional network links
 
-## 🚀 Local Development
+## Local Development
 
 ### Prerequisites
 
@@ -39,7 +37,7 @@ mkdocs serve
 
 4. Open your browser and visit `http://127.0.0.1:8000`
 
-## 🛠️ Building
+## Building
 
 To build the static site:
 
@@ -49,7 +47,7 @@ mkdocs build
 
 The built site will be in the `site/` directory.
 
-## 📝 Adding Content
+## Adding Content
 
 ### Adding a Blog Post
 
@@ -83,15 +81,15 @@ Edit the relevant files in the `docs/professional/` directory:
 - `reviewer.md` - Reviewer work
 - `communications.md` - Public communications
 
-## 🚢 Deployment
+## Deployment
 
 The site automatically deploys to GitHub Pages when you push to the `main` branch via GitHub Actions.
 
-## 📄 License
+## License
 
 Content is © Antoine Guillaume. Code is MIT licensed.
 
-## 📧 Contact
+## Contact
 
 - GitHub: [@baraline](https://github.com/baraline)
 - LinkedIn: [antoine-guillaume-69a83a101](https://www.linkedin.com/in/antoine-guillaume-69a83a101/)

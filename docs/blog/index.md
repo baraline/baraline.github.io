@@ -1,12 +1,10 @@
 # Tech Blog
 
-Welcome to my tech blog! Here I share insights, tutorials, and thoughts on various topics in technology, machine learning, and software development.
+Insights, tutorials, and thoughts on technology, machine learning, and software development.
 
 ---
 
 ## Latest Posts
-
-<!-- Blog posts will be listed here automatically by the MkDocs blog plugin -->
 
 ### Getting Started with Time Series Analysis in Python
 **Date:** February 6, 2026  
@@ -41,9 +39,3 @@ Exploring different approaches to making machine learning models more interpreta
 ## Topics
 
 Posts cover various topics including Python, Machine Learning, Data Science, Software Development, and Open Source.
-
----
-
-## Subscribe
-
-Stay updated with new posts! Follow me on [GitHub](https://github.com/baraline) or connect on [LinkedIn](https://www.linkedin.com/in/antoine-guillaume-69a83a101/).
