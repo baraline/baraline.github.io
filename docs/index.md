@@ -1,10 +1,10 @@
 # Welcome
 
-Hi, I'm **Antoine Guillaume** (baraline), a researcher and developer passionate about machine learning, time series analysis, and open-source software.
+Hi, I'm **Antoine Guillaume** (baraline), a research engineer and AI specialist passionate about time series analysis, predictive maintenance, and open-source software development.
 
 ## About Me
 
-This is my personal homepage where I share my professional work, thoughts on technology, and various resources.
+I specialize in applying machine learning to industrial problems, particularly in predictive maintenance and rare event prediction. As a core developer of the aeon-toolkit (NumFOCUS), I contribute to advancing time series analysis in the open-source ecosystem. I also lead AI training workshops and consulting services for enterprise AI platform development.
 
 ## Quick Links
 
