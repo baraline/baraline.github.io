@@ -72,8 +72,9 @@ This page lists my academic publications, including journal articles, conference
 ## Citation Metrics
 
 For up-to-date citation information, please visit my:
-- [Google Scholar Profile](https://scholar.google.com/)
-- [ResearchGate Profile](https://www.researchgate.net/profile/Antoine-Guillaume)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=_wGre10AAAAJ&hl=fr)
+- [ResearchGate Profile](https://www.researchgate.net/profile/Antoine-Guillaume-3?ev=hdr_xprf)
+- [ORCID: 0000-0001-8975-982X](https://orcid.org/0000-0001-8975-982X)
 
 ---
 

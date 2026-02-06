@@ -14,7 +14,7 @@ My open source projects and contributions. Check out my repositories to see what
 ---
 
 ### :fontawesome-brands-linkedin: LinkedIn
-**Profile:** [antoine-guillaume](https://linkedin.com/in/antoine-guillaume)
+**Profile:** [antoine-guillaume-69a83a101](https://www.linkedin.com/in/antoine-guillaume-69a83a101/)
 
 Professional network and career updates. Connect with me to stay in touch!
 
@@ -23,21 +23,21 @@ Professional network and career updates. Connect with me to stay in touch!
 ## Academic Profiles
 
 ### :fontawesome-solid-graduation-cap: Google Scholar
-**Profile:** [Antoine Guillaume](https://scholar.google.com/citations?user=YOUR_ID)
+**Profile:** [Antoine Guillaume](https://scholar.google.com/citations?user=_wGre10AAAAJ&hl=fr)
 
 My research publications and citation metrics.
 
 ---
 
 ### :material-school: ResearchGate
-**Profile:** [Antoine Guillaume](https://www.researchgate.net/profile/Antoine-Guillaume)
+**Profile:** [Antoine Guillaume](https://www.researchgate.net/profile/Antoine-Guillaume-3?ev=hdr_xprf)
 
 Research projects, publications, and academic collaborations.
 
 ---
 
 ### :material-identifier: ORCID
-**ID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+**ID:** [0000-0001-8975-982X](https://orcid.org/0000-0001-8975-982X)
 
 Persistent digital identifier for researchers.
 

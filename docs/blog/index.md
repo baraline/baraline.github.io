@@ -46,4 +46,4 @@ Posts cover various topics including Python, Machine Learning, Data Science, Sof
 
 ## Subscribe
 
-Stay updated with new posts! Follow me on [GitHub](https://github.com/baraline) or connect on [LinkedIn](https://linkedin.com/in/antoine-guillaume).
+Stay updated with new posts! Follow me on [GitHub](https://github.com/baraline) or connect on [LinkedIn](https://www.linkedin.com/in/antoine-guillaume-69a83a101/).

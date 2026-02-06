@@ -32,4 +32,4 @@ I am a research engineer and AI specialist with expertise in:
 
 ## Contact
 
-For professional inquiries, please reach out through [GitHub](https://github.com/baraline) or [LinkedIn](https://linkedin.com/in/antoine-guillaume).
+For professional inquiries, please reach out through [GitHub](https://github.com/baraline) or [LinkedIn](https://www.linkedin.com/in/antoine-guillaume-69a83a101/).

@@ -94,4 +94,4 @@ Content is © Antoine Guillaume. Code is MIT licensed.
 ## 📧 Contact
 
 - GitHub: [@baraline](https://github.com/baraline)
-- LinkedIn: [antoine-guillaume](https://linkedin.com/in/antoine-guillaume)
+- LinkedIn: [antoine-guillaume-69a83a101](https://www.linkedin.com/in/antoine-guillaume-69a83a101/)
