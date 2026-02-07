@@ -20,19 +20,6 @@ This page lists my academic publications, including journal articles, conference
 
 ## Conference Papers
 
-### A Hands-on Introduction to Time Series Classification and Regression
-**Authors:** Anthony Bagnall, Matthew Middlehurst, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**, David Guijo-Rubio, et al., Geoffrey I. Webb  
-**Conference:** 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)  
-**Year:** 2024  
-**Location:** Barcelona, Spain  
-**Publisher:** Association for Computing Machinery
-
-**Abstract:** A comprehensive hands-on tutorial introducing time series classification and regression techniques for practitioners and researchers.
-
-[:material-link: ACM](https://dl.acm.org/)
-
----
-
 ### Random Dilated Shapelet Transform: A New Approach for Time Series Shapelets
 **Authors:** **Antoine Guillaume**, Christel Vrain, Wael Elloumi  
 **Conference:** 3rd International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2022)  
@@ -52,6 +39,42 @@ This page lists my academic publications, including journal articles, conference
 **Location:** Lyon, France
 
 **Abstract:** Proposal for a comparative evaluation tool for predictive maintenance, addressing the challenge of comparing different approaches in this domain.
+
+---
+
+## Workshops, Demos & Tutorials
+
+### Time Series Machine Learning with aeon: Classification and Regression
+**Authors:** Matthew Middlehurst, Anthony Bagnall, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**  
+**Conference:** European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)  
+**Year:** 2025  
+**Type:** Demo
+
+**Keywords:** Time series, Classification, Regression, aeon
+
+[:material-link: Demo Website](https://aeon-tutorials.github.io/ECML-Demo-2025/)
+
+---
+
+### A Hands-on Introduction to Time Series Classification and Regression
+**Authors:** Anthony Bagnall, Matthew Middlehurst, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**, David Guijo-Rubio, et al., Geoffrey I. Webb  
+**Conference:** 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)  
+**Year:** 2024  
+**Location:** Barcelona, Spain  
+**Publisher:** Association for Computing Machinery
+**Type:** Tutorial
+
+[:material-link: Tutorial Website](https://aeon-tutorials.github.io/KDD-2024/people.html)
+
+---
+
+### An Introduction to Machine Learning from Time Series
+**Organisers:** Anthony Bagnall, Matthew Middlehurst, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**, David Guijo-Rubio, Arik Ermshaus, Patrick Schäfer, Thorsten Papenbrock, Sebastian Schmidl, Phillip Wenig  
+**Conference:** European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)  
+**Year:** 2024  
+**Type:** Tutorial
+
+[:material-link: Tutorial Website](https://aeon-tutorials.github.io/ECML-2024/)
 
 ---
 
