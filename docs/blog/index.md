@@ -6,33 +6,13 @@ Insights, tutorials, and thoughts on technology, machine learning, and software 
 
 ## Latest Posts
 
-### Getting Started with Time Series Analysis in Python
-**Date:** February 6, 2026  
+### Leveraging aeon for streamlined time series algorithm development
+**Date:** August 6, 2025
 **Tags:** Python, Time Series, Machine Learning
 
-A comprehensive guide to getting started with time series analysis using Python libraries.
+In this post, I'll show you how to use aeon's base classes to handle all the input checking, type conversion and validation, so you can focus on the algorithm logic.
 
-[Read more →](posts/getting-started-time-series.md)
-
----
-
-### Best Practices for Open Source Contributions
-**Date:** January 15, 2026  
-**Tags:** Open Source, Git, Collaboration
-
-Tips and best practices for contributing to open source projects effectively.
-
-[Read more →](posts/open-source-best-practices.md)
-
----
-
-### Understanding Machine Learning Model Interpretability
-**Date:** December 10, 2025  
-**Tags:** Machine Learning, Explainability, AI
-
-Exploring different approaches to making machine learning models more interpretable.
-
-[Read more →](posts/ml-interpretability.md)
+[Read more →](posts/aeon_base_classes.md)
 
 ---
 

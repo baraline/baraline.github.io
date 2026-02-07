@@ -1,5 +1,5 @@
 ---
-date: 2026-02-07
+date: 2025-08-06
 authors:
   - baraline
 categories:
@@ -13,7 +13,7 @@ categories:
 
 I've spent a lot of time developing time series algorithms, and I got tired of writing the same input checking and conversion code over and over. I just wanted to focus on the algorithm itself.
 
-In this post, I'll show you how aeon's base classes handle all the boring stuff—input checking, type conversion, validation—so you can focus on the algorithm logic.
+In this post, I'll show you how to use aeon's base classes to handle all the input checking, type conversion and validation, so you can focus on the algorithm logic.
 
 Let's dive in!
 

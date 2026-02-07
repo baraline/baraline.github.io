@@ -93,3 +93,6 @@ Content is © Antoine Guillaume. Code is MIT licensed.
 
 - GitHub: [@baraline](https://github.com/baraline)
 - LinkedIn: [antoine-guillaume-69a83a101](https://www.linkedin.com/in/antoine-guillaume-69a83a101/)
+
+## TODO :
+- Try embedding notebook for code blocks to generate images
