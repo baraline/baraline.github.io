@@ -96,4 +96,3 @@ Content is © Antoine Guillaume. Code is MIT licensed.
 
 ## TODO :
 - Try embedding notebook for code blocks to generate images
-- Update publication links
