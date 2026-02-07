@@ -1,6 +1,6 @@
 # Public Communications
 
-This page lists my public communications, including talks, workshops, tutorials, and media appearances.
+This page lists my public communications, including talks and media appearances.
 
 ---
 

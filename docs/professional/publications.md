@@ -14,7 +14,7 @@ This page lists my academic publications, including journal articles, conference
 
 **Abstract:** Presentation of aeon, a comprehensive Python toolkit for time series machine learning, providing state-of-the-art algorithms for classification, regression, and forecasting.
 
-[:material-link: JMLR](https://jmlr.org/)
+[:material-link: arXiv](https://arxiv.org/abs/2406.14231)
 
 ---
 
@@ -28,7 +28,7 @@ This page lists my academic publications, including journal articles, conference
 
 **Abstract:** Introduction of a novel approach for time series classification using dilated shapelets, improving on traditional shapelet-based methods.
 
-[:material-link: Springer](https://link.springer.com/)
+[:material-link: arXiv](https://arxiv.org/abs/2109.13514)
 
 ---
 
