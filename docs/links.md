@@ -43,49 +43,8 @@ Persistent digital identifier for researchers.
 
 ---
 
-## Code & Development
-
-### :fontawesome-brands-stack-overflow: Stack Overflow
-**Profile:** [baraline](https://stackoverflow.com/users/YOUR_ID/baraline)
-
-Questions, answers, and community contributions.
-
----
-
-### :fontawesome-brands-dev: Dev.to
-**Profile:** [@baraline](https://dev.to/baraline)
-
-Technical articles and blog posts.
-
----
-
-## Social Media
-
-### :fontawesome-brands-twitter: Twitter / X
-**Handle:** [@baraline](https://twitter.com/baraline)
-
-Updates on research, tech thoughts, and more.
-
----
-
-### :fontawesome-brands-mastodon: Mastodon
-**Profile:** [@baraline@mastodon.social](https://mastodon.social/@baraline)
-
-Decentralized social networking.
-
----
-
-## Other Platforms
-
-### :fontawesome-brands-youtube: YouTube
-**Channel:** [Antoine Guillaume](https://youtube.com/@baraline)
-
-Tutorials, presentations, and technical content.
-
----
-
 ### :material-email: Email
-**Contact:** [your.email@example.com](mailto:your.email@example.com)
+**Contact:** [antoine.guillaume45@gmail.com](mailto:antoine.guillaume45@gmail.com)
 
 For professional inquiries and collaborations.
 
