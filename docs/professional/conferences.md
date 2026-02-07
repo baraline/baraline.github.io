@@ -4,23 +4,6 @@ A list of conferences where I have presented my research.
 
 ---
 
-## 2025
-
-### European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)
-**Date:** September 2025  
-**Location:** TBD  
-**Type:** Demo
-
-**Title:** Time Series Machine Learning with aeon: Classification and Regression
-
-**Abstract:** We present the classification and regression modules of aeon, a Python library for all machine learning tasks involving time series. aeon follows the scikit-learn API and is compatible with its utilities such as model selection and pipelines. The toolkit contains a wide range of algorithms, including the state-of-the-art and popular benchmarks for each time series learning task.
-
-**Authors:** Matthew Middlehurst, Anthony Bagnall, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**
-
-[:material-link: Demo Website](https://aeon-tutorials.github.io/ECML-Demo-2025/)
-
----
-
 ## 2024
 
 ### European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)
@@ -33,21 +16,6 @@ A list of conferences where I have presented my research.
 **Abstract:** Time series machine learning is a rapidly evolving field that finds areas of application in all domains of machine learning and data science. This tutorial will provide an accessible overview of the recent research in a range of time series tasks, including classification, regression, clustering, forecasting, anomaly detection, segmentation and similarity search.
 
 **Organisers:** Anthony Bagnall, Matthew Middlehurst, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**, David Guijo-Rubio, Arik Ermshaus, Patrick Schäfer, Thorsten Papenbrock, Sebastian Schmidl, Phillip Wenig
-
----
-
-### 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)
-**Date:** August 25-29, 2024  
-**Location:** Barcelona, Spain  
-**Type:** Tutorial
-
-**Title:** A Hands-on Introduction to Time Series Classification and Regression
-
-**Abstract:** A comprehensive hands-on tutorial introducing time series classification and regression techniques for practitioners and researchers.
-
-**Authors:** Anthony Bagnall, Matthew Middlehurst, Germain Forestier, Ali Ismail-Fawaz, **Antoine Guillaume**, David Guijo-Rubio, et al., Geoffrey I. Webb
-
-[:material-link: ACM](https://dl.acm.org/)
 
 ---
 
