@@ -99,7 +99,7 @@ You can use your favorite python environment manager (conda/uv/...) for this. Ju
 ```bash
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
-pip install --upgrade ibm-watsonx-orchestrate
+pip install ibm-watsonx-orchestrate
 ```
 
 ### Register your environments
