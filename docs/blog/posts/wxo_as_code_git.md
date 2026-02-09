@@ -70,8 +70,7 @@ We structure the repository as follow :
 │   ├── export_agents_to_orchestrate.py     # push agents from repo → WXO
 │   ├── import_tools_from_orchestrate.py    # pull tools from WXO → repo
 │   └── export_tools_to_orchestrate.py      # push tools from repo → WXO
-├── conftest.py
-├── requirements.txt
+├── pyproject.toml
 └── .gitignore
 ```
 
@@ -545,9 +544,9 @@ name: Test Tools
 on:
   push:
     branches: [main, develop]
-    paths: ["tools/**", "conftest.py", "pyproject.toml"]
+    paths: ["tools/**", "pyproject.toml"]
   pull_request:
-    paths: ["tools/**", "conftest.py", "pyproject.toml"]
+    paths: ["tools/**", "pyproject.toml"]
 
 jobs:
   test:
