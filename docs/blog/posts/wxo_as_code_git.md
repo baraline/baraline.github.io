@@ -17,7 +17,7 @@ It falls apart the moment multiple people need to edit the same agent, roll back
 
 This post walks through a simple solution: **storing every agent, tool and knowledge-base definition in a Git repository** and using the watsonx Orchestrate Agent Development Kit (ADK) CLI to synchronize them with your Orchestrate instance. 
 
-**Update : As a few poeple asked for it, I've setup a GitHub template repository that include evertyhing discussed** : https://github.com/baraline/wxo_git_template
+[**Update : As a few poeple asked for it, I've setup a GitHub template repository that include evertyhing discussed**](https://github.com/baraline/wxo_git_template)
 
 Feel free to raise issues or PR on this template if things are missing.
 
