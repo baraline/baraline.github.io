@@ -6,6 +6,16 @@ Insights, tutorials, and thoughts on technology, machine learning, and software 
 
 ## Latest Posts
 
+### Git-Driven Agent Management with IBM watsonx Orchestrate ADK
+**Date:** February 9, 2026
+**Tags:** Python, IBM watsonx, AI Agents, Git, CI/CD
+
+In this post, I'll show you how to setup an agent as code git framework to save you some trouble when using IBM watsonx Orchestrate in production.
+
+[Read more →](posts/wxo_as_code_git.md)
+
+---
+
 ### Leveraging aeon for streamlined time series algorithm development
 **Date:** August 6, 2025
 **Tags:** Python, Time Series, Machine Learning
