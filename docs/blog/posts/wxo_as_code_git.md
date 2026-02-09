@@ -60,11 +60,12 @@ We structure the repository as follow :
 │   │   └── tests/
 │   │       ├── __init__.py
 │   │       └── test_extract_markdown_tool.py
-│   └── word_from_string/
-│       ├── word_from_string.py
+│   └── produce_word_file_from_string/
+│       ├── produce_word_file_from_string.py
 │       ├── requirements.txt
+│       ├── __init__.py
 │       └── tests/
-│           └── test_word_from_string.py
+│           └── test_produce_word_file_from_string.py
 ├── scripts/
 │   ├── import_agents_from_orchestrate.py   # pull agents from WXO → repo
 │   ├── export_agents_to_orchestrate.py     # push agents from repo → WXO
@@ -89,7 +90,7 @@ We'll only focus on what "Native" agents for now, which are agents defined in wa
 
 ### Prerequisites
 
-* Python ≥ 3.11
+* Python 3.12 (Only version supported for exporting Python tools)
 * A watsonx Orchestrate account (You can setup a [free 30-day trial](https://www.ibm.com/account/reg/us-en/signup?formid=urx-52753) if you don't have an account)
 
 ### Create a python environment
