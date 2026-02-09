@@ -1,3 +1,15 @@
+---
+date: 2026-02-09
+authors:
+  - baraline
+categories:
+  - Python
+  - IBM watsonx
+  - AI Agents
+  - CI/CD
+---
+
+
 # Git-Driven Agent Management with IBM watsonx Orchestrate ADK
 
 Managing AI agents through a web UI works fine for quick experiments.
