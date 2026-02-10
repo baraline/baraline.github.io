@@ -13,7 +13,7 @@ categories:
 # Git-Driven Agent Management with IBM watsonx Orchestrate ADK
 
 Managing AI agents through a web UI works fine for quick experiments.
-It falls apart the moment multiple people need to edit the same agent, roll back a broken prompt, or pusing configurations for multiples agents from staging to production without having to manually do it for every agent.
+It falls apart the moment multiple people need to edit the same agent, roll back a broken prompt, or pushing configurations for multiples agents from staging to production without having to manually do it for every agent.
 
 This post walks through a simple solution: **storing every agent, tool and knowledge-base definition in a Git repository** and using the watsonx Orchestrate Agent Development Kit (ADK) CLI to synchronize them with your Orchestrate instance. 
 
@@ -99,7 +99,7 @@ You can use your favorite python environment manager (conda/uv/...) for this. Ju
 ```bash
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
-pip install --upgrade ibm-watsonx-orchestrate
+pip install ibm-watsonx-orchestrate
 ```
 
 ### Register your environments
