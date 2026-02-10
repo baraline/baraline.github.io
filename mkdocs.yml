@@ -8,6 +8,7 @@ repo_name: baraline/baraline.github.io
 
 theme:
   name: material
+  custom_dir: overrides
   favicon: https://github.com/baraline.png
   palette:
     # Option 1: Deep Purple & Amber (Current - Modern & Professional)
