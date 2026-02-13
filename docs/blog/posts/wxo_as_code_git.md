@@ -203,7 +203,7 @@ def export_and_extract_agent(agent_name: str, project_root: Path,
                 continue
             raise
 ```
-
+(For the full function, see the GitHub repo)
 We can run these script manualy when needed, but we'll mainly use them in the CI/CD pipeline.
 
 ### Pushing agents from Git to Orchestrate
