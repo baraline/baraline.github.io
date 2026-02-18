@@ -16,7 +16,7 @@ As a research engineer specializing in AI, I acquired experience through project
 
 ## Employment History
 
-### Research Fellow
+### AI Engineer
 **Novahe & Constellation** | 2024 – Present
 
 - Supervision and structuring of the group's R&D activities
@@ -25,8 +25,9 @@ As a research engineer specializing in AI, I acquired experience through project
 - Training activities on AI and risk prevention
 - Active participation in the industrialization of projects, using technologies such as Docker, Kafka, Prometheus, and Grafana
 - Deployment on Red Hat systems and interfacing with the Azure environment
+- Pre-sales and consulting activities
 
-**Key Technologies:** Python, Data Engineering, Project Management, Training, Generative AI
+**Key Skills:** Python, Data Engineering, Project Management, Generative AI, Communication
 
 ### Postdoctoral Researcher
 **ENSTA Paris** | 2022 – 2024
@@ -36,7 +37,7 @@ As a research engineer specializing in AI, I acquired experience through project
 - Proposal of algorithmic solutions adapted to business constraints
 - Communication around the results and the method in the group's seminars
 
-**Key Technologies:** Python, Data Engineering, Predictive Modelling, HPC, Communication
+**Key Skills:** Python, Data Engineering, Predictive Modelling, HPC, Communication
 
 ### Part-time Lecturer
 **University of Orléans** | 2019 – 2022
@@ -50,7 +51,7 @@ As a research engineer specializing in AI, I acquired experience through project
 - Project management and development of predictive maintenance solutions including research results
 - Development of new predictive models and data pipelines
 
-**Key Technologies:** Java, SQL, Predictive Modelling, API, Project Management, Dashboards
+**Key Skills:** Java, SQL, Predictive Modelling, API, Project Management, Dashboards
 
 ---
 
