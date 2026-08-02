@@ -4,8 +4,10 @@ Information about my academic and professional work.
 
 ## Overview
 
-I am a research engineer and AI specialist with expertise in:
+I am an AI engineer and researcher with expertise in:
 
+- **Generative AI & LLMs** - RAG pipelines, semantic search and information extraction over document corpora
+- **Evaluation of AI Systems** - Business-relevant metrics and cost/performance trade-offs between open-source and proprietary models
 - **Time Series Analysis & Machine Learning** - Advanced machine learning techniques for temporal data
 - **Similarity Search Applications** - RAG, indexing, ANN, and such
 - **Predictive Maintenance** - Industrial applications of AI for fault prediction and prevention
@@ -14,7 +16,7 @@ I am a research engineer and AI specialist with expertise in:
 
 ## Current Position
 
-**Research Fellow** at Novahe & Constellation, focusing on AI project implementation, industrialization and maintenance, R&D, pre-sales, and training activities in AI.
+**AI Engineer** at Novahé & Constellation, technical lead on the development, production deployment and evaluation of generative AI solutions, alongside R&D, pre-sales, and training activities in AI.
 
 ## Academic Background
 
