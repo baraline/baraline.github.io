@@ -17,7 +17,7 @@ It falls apart the moment multiple people need to edit the same agent, roll back
 
 This post walks through a simple solution: **storing every agent, tool and knowledge-base definition in a Git repository** and using the watsonx Orchestrate Agent Development Kit (ADK) CLI to synchronize them with your Orchestrate instance. 
 
-[**Update : As a few poeple asked for it, I've setup a GitHub template repository that include evertyhing discussed**](https://github.com/baraline/wxo_git_template)
+[**Update : As a few poeple asked for it, I've setup a GitHub template repository that include everything discussed**](https://github.com/baraline/wxo_git_template)
 
 Feel free to raise issues or PR on this template if things are missing.
 
@@ -80,7 +80,7 @@ We'll only focus on what "Native" agents for now, which are agents defined in wa
 ### Key conventions
 
 * **`agents/<agent_name>/agents/native/<agent_name>.yaml`** — mirrors the folder layout that `orchestrate agents export` produces, so import/export scripts are zero-config.
-* **`tools/<tool_name>/`** — one directory per tool. The Python file has the same name as the directory. Each tool ships its own `requirements.txt` to be executed on the orches
+* **`tools/<tool_name>/`** — one directory per tool. The Python file has the same name as the directory. Each tool ships its own `requirements.txt` to be executed in their dedicated environment on watsonx Orchestrate. 
 * **`scripts/`** — automation helpers that wrap the ADK CLI.
 
 ---
@@ -91,6 +91,8 @@ We'll only focus on what "Native" agents for now, which are agents defined in wa
 
 * Python 3.12 (Only version supported for exporting Python tools)
 * A watsonx Orchestrate account (You can setup a [free 30-day trial](https://www.ibm.com/account/reg/us-en/signup?formid=urx-52753) if you don't have an account)
+* The associated test and live environment API urls
+* An IBM IAM access key
 
 ### Create a python environment
 
@@ -139,10 +141,12 @@ In long-running pipelines, be sure to re-activate before each batch of commands 
 
 ### Storing secrets safely
 
+For local testing, you can use an `.env` file, Use git secrets and environment once you want to deploy.
+
 | Secret | Where to store | **Never do** |
 |---|---|---|
 | IBM IAM API key | CI/CD secret variables (`WXO_API_KEY`) | **Hard-code in scripts** |
-| `.env` with LLM keys (for auto-discover) | Local machine only, listed in `.gitignore` | **Push to remote** |
+| `.env` with IAM API keys (for auto-discover) | Local machine only, listed in `.gitignore` | **Push to remote** |
 
 The ADK stores its own session state in two files:
 
@@ -199,7 +203,7 @@ def export_and_extract_agent(agent_name: str, project_root: Path,
                 continue
             raise
 ```
-
+(For the full function, see the GitHub repo)
 We can run these script manualy when needed, but we'll mainly use them in the CI/CD pipeline.
 
 ### Pushing agents from Git to Orchestrate
